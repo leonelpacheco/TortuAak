@@ -1,0 +1,4 @@
+Usuario: leonel
+Contraseña: 123
+
+Método de encriptación: SHA1
